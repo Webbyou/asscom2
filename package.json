@@ -23,8 +23,8 @@
     "nodemailer": "^6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "redis" "latest",
-    "upstash-redis-adapter" "latest"
+    "redis": "latest",
+    "upstash-redis-adapter": "latest"
   },
   "devDependencies": {
     "@types/node": "^17",
